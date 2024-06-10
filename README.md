@@ -20,7 +20,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/weather-web-app.git
+   git clone https://github.com/LindritBajrami/city-weather-reactjs.git
 2. Navigate to the project directory:
    ```sh
    cd weather-web-app
