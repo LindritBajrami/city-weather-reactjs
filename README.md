@@ -32,5 +32,5 @@ Ensure you have the following installed:
 1. Start the development server:
    ```sh
    npm run dev
-2. Open [http://localhost:3000](http://localhost:5173) to view it in your browser.
+2. Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
