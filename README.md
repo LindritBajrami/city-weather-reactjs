@@ -1,4 +1,4 @@
-# Weather Web App
+# City Weather
 
 ## Overview
 This weather web app provides real-time temperature data for any specified city. Built using HTML, CSS, JavaScript, and React, it features a clean and intuitive interface with a single card displaying the temperature data. Users can search for specific cities to get updated weather information instantly.
